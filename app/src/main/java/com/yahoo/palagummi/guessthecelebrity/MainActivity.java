@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
 
     // answerButtons onClick
     public void celebChosen(View view) {
-
+        //TODO Add onClick functionality
     }
 
 
